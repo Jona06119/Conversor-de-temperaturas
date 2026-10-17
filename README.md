@@ -47,7 +47,3 @@ En Linux:
 - Estructuras condicionales `switch`.
 - Fórmulas matemáticas.
 - Compilación de programas en C.
-
-## Autor
-
-Proyecto personal desarrollado con fines educativos para practicar programación en C.
